@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @riccusso
 - 👀 I’m interested in c, c++, c#, python, Java programming
-- 🌱 I’m currently learning c programing
-- 💞️ I’m looking to collaborate on desktop apps
+- 🌱 I’m currently learning web design
+- 💞️ I’m interested in solve problems using the PC as a main way.
 - 📫 How to reach me 
 
 <!---
